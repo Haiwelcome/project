@@ -1,0 +1,121 @@
+staff_id,name,role,assigned_location_id,phone
+1,Staff-1,District Health Officer,1,+918836553621
+2,Staff-2,State Health Officer,76,+919843355206
+3,Staff-3,ASHA Worker,154,+919062994753
+4,Staff-4,State Health Officer,25,+917110533960
+5,Staff-5,State Health Officer,44,+919741008001
+6,Staff-6,District Health Officer,21,+919033970459
+7,Staff-7,State Health Officer,79,+918707109267
+8,Staff-8,District Health Officer,126,+919839145425
+9,Staff-9,District Health Officer,24,+919756795104
+10,Staff-10,ASHA Worker,100,+917794058803
+11,Staff-11,District Health Officer,98,+918586568081
+12,Staff-12,State Health Officer,115,+917191628232
+13,Staff-13,District Health Officer,113,+918997408731
+14,Staff-14,District Health Officer,58,+918153464986
+15,Staff-15,ASHA Worker,16,+917649101302
+16,Staff-16,ASHA Worker,171,+917415334610
+17,Staff-17,State Health Officer,172,+918476572736
+18,Staff-18,ASHA Worker,106,+919532855799
+19,Staff-19,State Health Officer,142,+917261923195
+20,Staff-20,District Health Officer,210,+919244473790
+21,Staff-21,District Health Officer,138,+919950934291
+22,Staff-22,District Health Officer,147,+918012074766
+23,Staff-23,District Health Officer,77,+917339109365
+24,Staff-24,District Health Officer,183,+917149157745
+25,Staff-25,ASHA Worker,147,+919219713803
+26,Staff-26,ASHA Worker,174,+919664052763
+27,Staff-27,State Health Officer,31,+918928610987
+28,Staff-28,State Health Officer,43,+917910061300
+29,Staff-29,State Health Officer,33,+917183291591
+30,Staff-30,District Health Officer,21,+919934001543
+31,Staff-31,District Health Officer,52,+919693916084
+32,Staff-32,State Health Officer,153,+918107613491
+33,Staff-33,District Health Officer,187,+917287814151
+34,Staff-34,State Health Officer,100,+919389566051
+35,Staff-35,District Health Officer,142,+918400703953
+36,Staff-36,District Health Officer,134,+918967770105
+37,Staff-37,State Health Officer,202,+919676013419
+38,Staff-38,ASHA Worker,134,+918802141793
+39,Staff-39,State Health Officer,107,+917642708893
+40,Staff-40,State Health Officer,146,+919525157887
+41,Staff-41,ASHA Worker,195,+917430372878
+42,Staff-42,State Health Officer,145,+917433750626
+43,Staff-43,District Health Officer,138,+918476906868
+44,Staff-44,District Health Officer,68,+918645159179
+45,Staff-45,ASHA Worker,125,+919456821088
+46,Staff-46,ASHA Worker,122,+917160913827
+47,Staff-47,State Health Officer,71,+918730759996
+48,Staff-48,State Health Officer,159,+919614154439
+49,Staff-49,ASHA Worker,178,+918725373847
+50,Staff-50,State Health Officer,102,+918423756197
+51,Staff-51,ASHA Worker,61,+917211703120
+52,Staff-52,ASHA Worker,122,+918153561013
+53,Staff-53,District Health Officer,6,+918451123758
+54,Staff-54,District Health Officer,80,+918204079697
+55,Staff-55,District Health Officer,179,+919941417062
+56,Staff-56,State Health Officer,59,+917577181411
+57,Staff-57,District Health Officer,191,+918903145590
+58,Staff-58,District Health Officer,69,+918790025237
+59,Staff-59,ASHA Worker,166,+917383484123
+60,Staff-60,State Health Officer,114,+917907915284
+61,Staff-61,District Health Officer,190,+919080741273
+62,Staff-62,ASHA Worker,96,+917241402174
+63,Staff-63,ASHA Worker,203,+917682781467
+64,Staff-64,State Health Officer,80,+919176669141
+65,Staff-65,District Health Officer,35,+919251792132
+66,Staff-66,ASHA Worker,8,+917746196273
+67,Staff-67,State Health Officer,52,+917247508299
+68,Staff-68,State Health Officer,9,+918960432117
+69,Staff-69,State Health Officer,93,+917855169963
+70,Staff-70,District Health Officer,95,+918993803105
+71,Staff-71,ASHA Worker,102,+919729064332
+72,Staff-72,State Health Officer,175,+917131267917
+73,Staff-73,State Health Officer,96,+919099323053
+74,Staff-74,ASHA Worker,115,+917762716154
+75,Staff-75,District Health Officer,151,+919367960313
+76,Staff-76,District Health Officer,89,+917702285630
+77,Staff-77,District Health Officer,192,+919958590550
+78,Staff-78,State Health Officer,73,+917117898946
+79,Staff-79,District Health Officer,13,+917699681969
+80,Staff-80,ASHA Worker,200,+917920491305
+81,Staff-81,State Health Officer,166,+917966848837
+82,Staff-82,ASHA Worker,53,+918155705163
+83,Staff-83,ASHA Worker,105,+919204526134
+84,Staff-84,State Health Officer,200,+919930025537
+85,Staff-85,State Health Officer,122,+917568284681
+86,Staff-86,ASHA Worker,45,+919581885004
+87,Staff-87,State Health Officer,58,+918084008690
+88,Staff-88,ASHA Worker,207,+918311939403
+89,Staff-89,ASHA Worker,182,+919760548616
+90,Staff-90,District Health Officer,109,+918616949739
+91,Staff-91,District Health Officer,118,+918082326234
+92,Staff-92,State Health Officer,120,+918297703275
+93,Staff-93,ASHA Worker,134,+919678367783
+94,Staff-94,District Health Officer,150,+917439427140
+95,Staff-95,State Health Officer,131,+919844794993
+96,Staff-96,District Health Officer,144,+919780313235
+97,Staff-97,ASHA Worker,156,+918214087964
+98,Staff-98,District Health Officer,176,+917464305421
+99,Staff-99,District Health Officer,17,+918444327294
+100,Staff-100,District Health Officer,164,+918396453077
+101,Staff-101,District Health Officer,67,+919818012241
+102,Staff-102,ASHA Worker,167,+918283298067
+103,Staff-103,State Health Officer,39,+919221759035
+104,Staff-104,State Health Officer,15,+919577123417
+105,Staff-105,District Health Officer,170,+918372610291
+106,Staff-106,ASHA Worker,36,+917109329542
+107,Staff-107,ASHA Worker,128,+918269612255
+108,Staff-108,District Health Officer,108,+918737739017
+109,Staff-109,District Health Officer,189,+917151693971
+110,Staff-110,ASHA Worker,182,+919456903534
+111,Staff-111,State Health Officer,88,+917955042637
+112,Staff-112,ASHA Worker,137,+919741535989
+113,Staff-113,District Health Officer,172,+918539733450
+114,Staff-114,ASHA Worker,77,+917730087155
+115,Staff-115,ASHA Worker,143,+917777972586
+116,Staff-116,District Health Officer,25,+919021988477
+117,Staff-117,State Health Officer,190,+918110901233
+118,Staff-118,ASHA Worker,207,+919401022668
+119,Staff-119,State Health Officer,175,+918441530442
+120,Staff-120,ASHA Worker,23,+917954571559

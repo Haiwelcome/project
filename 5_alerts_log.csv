@@ -1,0 +1,251 @@
+alert_id,location_id,alert_level,sent_to_role,sent_to_name,sent_time,status
+1,186,State,State Health Officer,Officer-43,2026-01-03 12:09,Sent
+2,62,State,State Health Officer,Officer-7,2026-01-02 13:09,Sent
+3,115,Area,ASHA Worker,Officer-46,2026-01-05 11:09,Sent
+4,190,State,District Health Officer,Officer-29,2026-01-04 12:09,Sent
+5,194,State,State Health Officer,Officer-33,2026-01-04 04:09,Sent
+6,209,Area,ASHA Worker,Officer-21,2026-01-02 16:09,Delivered
+7,61,District,State Health Officer,Officer-43,2026-01-02 23:09,Sent
+8,106,District,District Health Officer,Officer-4,2026-01-02 18:09,Sent
+9,161,Area,District Health Officer,Officer-36,2026-01-03 02:09,Sent
+10,89,Area,ASHA Worker,Officer-25,2026-01-02 22:09,Delivered
+11,179,District,District Health Officer,Officer-10,2026-01-04 03:09,Delivered
+12,48,Area,District Health Officer,Officer-16,2026-01-04 13:09,Delivered
+13,182,State,District Health Officer,Officer-4,2026-01-02 18:09,Delivered
+14,107,Area,ASHA Worker,Officer-9,2026-01-03 16:09,Sent
+15,66,State,District Health Officer,Officer-42,2026-01-05 07:09,Delivered
+16,95,State,ASHA Worker,Officer-47,2026-01-04 17:09,Sent
+17,69,District,ASHA Worker,Officer-39,2026-01-02 12:09,Sent
+18,19,State,ASHA Worker,Officer-47,2026-01-02 04:09,Sent
+19,123,State,District Health Officer,Officer-20,2026-01-05 16:09,Sent
+20,49,Area,State Health Officer,Officer-48,2026-01-03 04:09,Sent
+21,179,Area,ASHA Worker,Officer-14,2026-01-03 15:09,Sent
+22,142,District,District Health Officer,Officer-25,2026-01-03 06:09,Delivered
+23,79,District,District Health Officer,Officer-33,2026-01-03 02:09,Delivered
+24,26,Area,District Health Officer,Officer-49,2026-01-04 01:09,Sent
+25,95,District,District Health Officer,Officer-3,2026-01-02 17:09,Sent
+26,190,State,State Health Officer,Officer-17,2026-01-02 19:09,Delivered
+27,76,State,State Health Officer,Officer-22,2026-01-04 12:09,Delivered
+28,146,State,District Health Officer,Officer-36,2026-01-02 06:09,Delivered
+29,66,District,ASHA Worker,Officer-42,2026-01-01 19:09,Delivered
+30,118,State,ASHA Worker,Officer-23,2026-01-04 20:09,Sent
+31,185,Area,District Health Officer,Officer-12,2026-01-02 20:09,Sent
+32,135,State,State Health Officer,Officer-43,2026-01-05 11:09,Sent
+33,106,State,ASHA Worker,Officer-15,2026-01-05 09:09,Sent
+34,3,State,ASHA Worker,Officer-30,2026-01-03 18:09,Sent
+35,159,Area,ASHA Worker,Officer-40,2026-01-03 04:09,Delivered
+36,5,State,ASHA Worker,Officer-36,2026-01-03 13:09,Sent
+37,5,Area,ASHA Worker,Officer-18,2026-01-02 21:09,Delivered
+38,5,Area,ASHA Worker,Officer-44,2026-01-03 10:09,Sent
+39,28,State,ASHA Worker,Officer-10,2026-01-04 11:09,Sent
+40,159,Area,District Health Officer,Officer-23,2026-01-04 07:09,Delivered
+41,21,District,District Health Officer,Officer-30,2026-01-02 17:09,Sent
+42,179,State,District Health Officer,Officer-44,2026-01-05 07:09,Sent
+43,24,District,District Health Officer,Officer-25,2026-01-02 19:09,Delivered
+44,15,Area,State Health Officer,Officer-45,2026-01-04 20:09,Sent
+45,128,District,ASHA Worker,Officer-22,2026-01-02 17:09,Sent
+46,136,State,State Health Officer,Officer-14,2026-01-02 01:09,Delivered
+47,70,State,State Health Officer,Officer-44,2026-01-04 06:09,Sent
+48,46,District,State Health Officer,Officer-14,2026-01-02 14:09,Sent
+49,193,Area,District Health Officer,Officer-5,2026-01-04 03:09,Sent
+50,145,State,ASHA Worker,Officer-25,2026-01-02 03:09,Delivered
+51,99,Area,State Health Officer,Officer-45,2026-01-01 21:09,Sent
+52,129,Area,District Health Officer,Officer-4,2026-01-05 05:09,Delivered
+53,60,State,District Health Officer,Officer-39,2026-01-02 11:09,Delivered
+54,199,District,State Health Officer,Officer-41,2026-01-04 07:09,Delivered
+55,126,State,District Health Officer,Officer-36,2026-01-03 17:09,Delivered
+56,48,Area,ASHA Worker,Officer-43,2026-01-03 17:09,Sent
+57,198,Area,District Health Officer,Officer-16,2026-01-01 22:09,Sent
+58,22,District,State Health Officer,Officer-25,2026-01-01 22:09,Sent
+59,190,District,District Health Officer,Officer-24,2026-01-05 04:09,Sent
+60,2,District,District Health Officer,Officer-24,2026-01-04 07:09,Sent
+61,34,State,State Health Officer,Officer-28,2026-01-03 08:09,Delivered
+62,27,State,State Health Officer,Officer-23,2026-01-02 19:09,Sent
+63,153,Area,District Health Officer,Officer-25,2026-01-05 16:09,Delivered
+64,106,District,State Health Officer,Officer-47,2026-01-02 18:09,Sent
+65,147,Area,State Health Officer,Officer-44,2026-01-03 17:09,Sent
+66,36,District,District Health Officer,Officer-18,2026-01-03 02:09,Sent
+67,17,State,District Health Officer,Officer-18,2026-01-03 12:09,Delivered
+68,124,State,District Health Officer,Officer-17,2026-01-04 10:09,Delivered
+69,153,Area,State Health Officer,Officer-30,2026-01-05 04:09,Sent
+70,78,State,District Health Officer,Officer-22,2026-01-02 10:09,Delivered
+71,206,District,District Health Officer,Officer-22,2026-01-03 10:09,Sent
+72,77,District,ASHA Worker,Officer-45,2026-01-04 16:09,Delivered
+73,81,State,District Health Officer,Officer-21,2026-01-04 04:09,Delivered
+74,148,State,District Health Officer,Officer-25,2026-01-04 06:09,Delivered
+75,94,State,ASHA Worker,Officer-13,2026-01-02 14:09,Sent
+76,175,Area,State Health Officer,Officer-47,2026-01-03 06:09,Sent
+77,113,District,ASHA Worker,Officer-5,2026-01-03 13:09,Delivered
+78,36,Area,District Health Officer,Officer-16,2026-01-04 09:09,Sent
+79,184,District,District Health Officer,Officer-5,2026-01-03 08:09,Delivered
+80,150,District,ASHA Worker,Officer-33,2026-01-02 01:09,Delivered
+81,140,State,District Health Officer,Officer-45,2026-01-02 21:09,Sent
+82,28,State,ASHA Worker,Officer-43,2026-01-03 20:09,Sent
+83,166,Area,State Health Officer,Officer-37,2026-01-02 07:09,Delivered
+84,193,District,District Health Officer,Officer-7,2026-01-05 16:09,Sent
+85,67,State,ASHA Worker,Officer-48,2026-01-02 23:09,Sent
+86,115,District,District Health Officer,Officer-30,2026-01-02 03:09,Sent
+87,89,State,District Health Officer,Officer-7,2026-01-04 04:09,Delivered
+88,22,State,ASHA Worker,Officer-10,2026-01-03 21:09,Delivered
+89,88,District,State Health Officer,Officer-34,2026-01-03 04:09,Delivered
+90,122,State,District Health Officer,Officer-47,2026-01-02 00:09,Delivered
+91,82,State,District Health Officer,Officer-3,2026-01-01 23:09,Sent
+92,6,District,ASHA Worker,Officer-7,2026-01-02 03:09,Sent
+93,190,State,ASHA Worker,Officer-12,2026-01-02 19:09,Sent
+94,85,Area,District Health Officer,Officer-30,2026-01-04 12:09,Delivered
+95,162,State,State Health Officer,Officer-41,2026-01-02 05:09,Delivered
+96,102,State,ASHA Worker,Officer-40,2026-01-04 16:09,Delivered
+97,152,District,District Health Officer,Officer-1,2026-01-01 23:09,Sent
+98,53,District,ASHA Worker,Officer-5,2026-01-02 16:09,Sent
+99,205,Area,State Health Officer,Officer-24,2026-01-04 00:09,Sent
+100,118,State,District Health Officer,Officer-43,2026-01-03 03:09,Delivered
+101,153,District,ASHA Worker,Officer-26,2026-01-02 14:09,Sent
+102,90,District,District Health Officer,Officer-40,2026-01-04 19:09,Delivered
+103,158,Area,State Health Officer,Officer-44,2026-01-05 00:09,Delivered
+104,31,State,District Health Officer,Officer-8,2026-01-04 18:09,Delivered
+105,178,State,ASHA Worker,Officer-25,2026-01-03 12:09,Sent
+106,148,District,District Health Officer,Officer-12,2026-01-03 03:09,Sent
+107,143,State,District Health Officer,Officer-19,2026-01-05 00:09,Sent
+108,81,District,ASHA Worker,Officer-4,2026-01-03 20:09,Sent
+109,125,State,State Health Officer,Officer-25,2026-01-02 18:09,Delivered
+110,105,Area,District Health Officer,Officer-27,2026-01-01 23:09,Delivered
+111,126,State,State Health Officer,Officer-37,2026-01-05 14:09,Sent
+112,75,State,District Health Officer,Officer-15,2026-01-02 21:09,Delivered
+113,44,District,ASHA Worker,Officer-48,2026-01-03 02:09,Sent
+114,147,State,District Health Officer,Officer-50,2026-01-02 20:09,Delivered
+115,139,State,ASHA Worker,Officer-29,2026-01-02 20:09,Sent
+116,109,State,ASHA Worker,Officer-42,2026-01-04 10:09,Delivered
+117,9,District,District Health Officer,Officer-23,2026-01-05 06:09,Delivered
+118,31,State,State Health Officer,Officer-48,2026-01-02 14:09,Delivered
+119,182,Area,ASHA Worker,Officer-28,2026-01-04 20:09,Sent
+120,201,State,State Health Officer,Officer-4,2026-01-02 17:09,Delivered
+121,137,District,ASHA Worker,Officer-35,2026-01-04 20:09,Delivered
+122,181,District,District Health Officer,Officer-37,2026-01-04 07:09,Sent
+123,35,District,State Health Officer,Officer-18,2026-01-02 06:09,Sent
+124,180,State,State Health Officer,Officer-10,2026-01-01 22:09,Delivered
+125,64,Area,District Health Officer,Officer-32,2026-01-04 23:09,Delivered
+126,161,District,District Health Officer,Officer-29,2026-01-05 08:09,Sent
+127,104,Area,ASHA Worker,Officer-18,2026-01-02 01:09,Delivered
+128,117,District,District Health Officer,Officer-38,2026-01-05 17:09,Sent
+129,188,District,ASHA Worker,Officer-43,2026-01-02 00:09,Delivered
+130,17,Area,District Health Officer,Officer-14,2026-01-03 11:09,Sent
+131,127,District,District Health Officer,Officer-19,2026-01-03 22:09,Sent
+132,145,District,District Health Officer,Officer-44,2026-01-05 11:09,Sent
+133,26,Area,District Health Officer,Officer-2,2026-01-05 02:09,Sent
+134,113,District,State Health Officer,Officer-28,2026-01-04 16:09,Sent
+135,167,District,State Health Officer,Officer-18,2026-01-05 06:09,Delivered
+136,65,State,District Health Officer,Officer-43,2026-01-02 06:09,Sent
+137,14,District,ASHA Worker,Officer-20,2026-01-01 21:09,Sent
+138,110,Area,State Health Officer,Officer-46,2026-01-05 05:09,Sent
+139,55,District,State Health Officer,Officer-9,2026-01-02 14:09,Sent
+140,133,Area,District Health Officer,Officer-1,2026-01-05 16:09,Delivered
+141,210,State,District Health Officer,Officer-45,2026-01-05 01:09,Delivered
+142,19,State,District Health Officer,Officer-6,2026-01-01 20:09,Sent
+143,27,District,District Health Officer,Officer-20,2026-01-05 00:09,Delivered
+144,199,State,ASHA Worker,Officer-44,2026-01-04 23:09,Sent
+145,136,Area,State Health Officer,Officer-40,2026-01-02 06:09,Sent
+146,113,District,ASHA Worker,Officer-14,2026-01-02 09:09,Sent
+147,106,Area,ASHA Worker,Officer-29,2026-01-04 14:09,Sent
+148,26,State,State Health Officer,Officer-38,2026-01-01 20:09,Delivered
+149,90,District,District Health Officer,Officer-9,2026-01-04 10:09,Delivered
+150,166,State,State Health Officer,Officer-36,2026-01-02 13:09,Delivered
+151,200,Area,State Health Officer,Officer-43,2026-01-04 03:09,Sent
+152,133,Area,ASHA Worker,Officer-13,2026-01-01 18:09,Delivered
+153,76,Area,State Health Officer,Officer-16,2026-01-03 02:09,Delivered
+154,29,State,District Health Officer,Officer-41,2026-01-02 13:09,Sent
+155,136,State,District Health Officer,Officer-21,2026-01-05 01:09,Delivered
+156,146,District,District Health Officer,Officer-35,2026-01-02 02:09,Sent
+157,196,District,State Health Officer,Officer-2,2026-01-02 14:09,Sent
+158,4,District,State Health Officer,Officer-3,2026-01-05 10:09,Delivered
+159,130,District,ASHA Worker,Officer-46,2026-01-03 01:09,Delivered
+160,109,Area,District Health Officer,Officer-6,2026-01-02 08:09,Sent
+161,72,State,District Health Officer,Officer-6,2026-01-03 00:09,Sent
+162,207,State,ASHA Worker,Officer-21,2026-01-03 15:09,Sent
+163,80,Area,District Health Officer,Officer-47,2026-01-04 11:09,Sent
+164,63,State,District Health Officer,Officer-8,2026-01-03 07:09,Sent
+165,80,Area,ASHA Worker,Officer-43,2026-01-01 19:09,Sent
+166,31,State,ASHA Worker,Officer-9,2026-01-02 00:09,Sent
+167,42,District,District Health Officer,Officer-34,2026-01-02 23:09,Delivered
+168,43,District,State Health Officer,Officer-48,2026-01-04 07:09,Sent
+169,198,State,District Health Officer,Officer-28,2026-01-04 07:09,Sent
+170,68,Area,ASHA Worker,Officer-41,2026-01-05 08:09,Delivered
+171,117,Area,District Health Officer,Officer-4,2026-01-03 02:09,Sent
+172,95,State,District Health Officer,Officer-50,2026-01-05 04:09,Sent
+173,59,Area,ASHA Worker,Officer-1,2026-01-05 12:09,Sent
+174,63,State,District Health Officer,Officer-24,2026-01-03 16:09,Sent
+175,46,State,ASHA Worker,Officer-46,2026-01-01 19:09,Delivered
+176,58,District,State Health Officer,Officer-27,2026-01-01 21:09,Delivered
+177,70,State,ASHA Worker,Officer-24,2026-01-05 02:09,Sent
+178,46,State,ASHA Worker,Officer-3,2026-01-03 14:09,Sent
+179,120,District,District Health Officer,Officer-21,2026-01-05 06:09,Delivered
+180,3,District,State Health Officer,Officer-19,2026-01-02 17:09,Delivered
+181,190,Area,State Health Officer,Officer-30,2026-01-03 18:09,Delivered
+182,198,State,ASHA Worker,Officer-35,2026-01-04 10:09,Sent
+183,2,District,State Health Officer,Officer-15,2026-01-02 20:09,Delivered
+184,163,Area,State Health Officer,Officer-22,2026-01-05 17:09,Delivered
+185,189,Area,District Health Officer,Officer-7,2026-01-04 15:09,Sent
+186,108,District,State Health Officer,Officer-10,2026-01-01 22:09,Delivered
+187,24,State,State Health Officer,Officer-34,2026-01-03 13:09,Delivered
+188,118,Area,State Health Officer,Officer-38,2026-01-05 05:09,Sent
+189,164,District,State Health Officer,Officer-38,2026-01-02 17:09,Sent
+190,112,Area,State Health Officer,Officer-16,2026-01-04 04:09,Delivered
+191,81,District,ASHA Worker,Officer-48,2026-01-04 00:09,Delivered
+192,116,District,State Health Officer,Officer-5,2026-01-04 16:09,Sent
+193,200,Area,State Health Officer,Officer-10,2026-01-05 04:09,Sent
+194,116,District,District Health Officer,Officer-27,2026-01-05 02:09,Delivered
+195,198,State,District Health Officer,Officer-20,2026-01-03 06:09,Delivered
+196,31,State,State Health Officer,Officer-44,2026-01-04 03:09,Sent
+197,56,District,State Health Officer,Officer-6,2026-01-01 22:09,Sent
+198,92,District,ASHA Worker,Officer-4,2026-01-02 03:09,Delivered
+199,67,State,State Health Officer,Officer-26,2026-01-03 08:09,Sent
+200,25,District,State Health Officer,Officer-9,2026-01-05 02:09,Sent
+201,16,State,State Health Officer,Officer-13,2026-01-03 14:09,Delivered
+202,176,Area,ASHA Worker,Officer-6,2026-01-02 15:09,Delivered
+203,209,State,State Health Officer,Officer-5,2026-01-04 16:09,Delivered
+204,208,State,State Health Officer,Officer-22,2026-01-05 02:09,Sent
+205,119,State,State Health Officer,Officer-37,2026-01-03 10:09,Delivered
+206,128,State,District Health Officer,Officer-44,2026-01-03 11:09,Sent
+207,91,State,State Health Officer,Officer-18,2026-01-04 06:09,Delivered
+208,39,State,ASHA Worker,Officer-40,2026-01-02 11:09,Sent
+209,166,District,District Health Officer,Officer-27,2026-01-02 19:09,Delivered
+210,16,State,District Health Officer,Officer-25,2026-01-05 00:09,Delivered
+211,52,Area,ASHA Worker,Officer-16,2026-01-02 09:09,Sent
+212,98,Area,District Health Officer,Officer-31,2026-01-02 20:09,Delivered
+213,89,Area,ASHA Worker,Officer-21,2026-01-03 16:09,Delivered
+214,47,State,District Health Officer,Officer-39,2026-01-04 13:09,Sent
+215,208,District,State Health Officer,Officer-31,2026-01-02 22:09,Delivered
+216,197,Area,State Health Officer,Officer-11,2026-01-05 05:09,Sent
+217,169,State,District Health Officer,Officer-35,2026-01-01 19:09,Sent
+218,196,State,ASHA Worker,Officer-25,2026-01-03 20:09,Sent
+219,46,State,ASHA Worker,Officer-21,2026-01-01 19:09,Delivered
+220,152,State,ASHA Worker,Officer-45,2026-01-03 20:09,Sent
+221,145,State,District Health Officer,Officer-35,2026-01-04 02:09,Sent
+222,126,State,State Health Officer,Officer-4,2026-01-04 12:09,Sent
+223,6,Area,District Health Officer,Officer-1,2026-01-03 23:09,Sent
+224,207,State,District Health Officer,Officer-46,2026-01-04 19:09,Delivered
+225,16,State,State Health Officer,Officer-38,2026-01-01 23:09,Sent
+226,199,State,ASHA Worker,Officer-24,2026-01-05 08:09,Delivered
+227,181,Area,District Health Officer,Officer-38,2026-01-05 05:09,Delivered
+228,78,District,State Health Officer,Officer-11,2026-01-01 20:09,Delivered
+229,203,Area,District Health Officer,Officer-42,2026-01-04 01:09,Sent
+230,182,Area,ASHA Worker,Officer-40,2026-01-03 20:09,Sent
+231,171,Area,State Health Officer,Officer-25,2026-01-04 02:09,Delivered
+232,33,State,ASHA Worker,Officer-1,2026-01-02 00:09,Delivered
+233,198,Area,State Health Officer,Officer-12,2026-01-02 12:09,Delivered
+234,208,Area,State Health Officer,Officer-41,2026-01-02 17:09,Sent
+235,128,State,District Health Officer,Officer-48,2026-01-05 08:09,Sent
+236,89,District,State Health Officer,Officer-41,2026-01-05 06:09,Delivered
+237,115,State,District Health Officer,Officer-14,2026-01-04 10:09,Sent
+238,90,District,State Health Officer,Officer-47,2026-01-05 17:09,Sent
+239,99,District,ASHA Worker,Officer-27,2026-01-04 20:09,Delivered
+240,127,District,District Health Officer,Officer-35,2026-01-03 17:09,Sent
+241,123,Area,ASHA Worker,Officer-49,2026-01-02 02:09,Sent
+242,42,District,State Health Officer,Officer-3,2026-01-04 04:09,Sent
+243,82,District,State Health Officer,Officer-5,2026-01-03 22:09,Sent
+244,97,State,ASHA Worker,Officer-5,2026-01-02 19:09,Sent
+245,87,Area,ASHA Worker,Officer-31,2026-01-01 23:09,Sent
+246,111,Area,State Health Officer,Officer-39,2026-01-03 10:09,Sent
+247,14,State,District Health Officer,Officer-14,2026-01-04 17:09,Delivered
+248,179,Area,ASHA Worker,Officer-47,2026-01-02 20:09,Delivered
+249,170,District,District Health Officer,Officer-16,2026-01-05 05:09,Sent
+250,101,Area,ASHA Worker,Officer-32,2026-01-04 22:09,Sent

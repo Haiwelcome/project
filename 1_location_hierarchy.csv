@@ -1,0 +1,211 @@
+location_id,country,state,district,block,area_type,area_name,latitude,longitude,population
+1,India,Uttar Pradesh,Prayagraj,Block-2,Ward,Prayagraj-Area-1,11.0059,84.831,4812
+2,India,Uttar Pradesh,Prayagraj,Block-3,Village,Prayagraj-Area-2,11.7675,72.0499,9735
+3,India,Uttar Pradesh,Prayagraj,Block-4,Village,Prayagraj-Area-3,23.9433,70.6357,2335
+4,India,Uttar Pradesh,Prayagraj,Block-5,Village,Prayagraj-Area-4,14.2818,82.0404,9995
+5,India,Uttar Pradesh,Prayagraj,Block-1,Village,Prayagraj-Area-5,27.3325,84.0265,7673
+6,India,Uttar Pradesh,Prayagraj,Block-2,Village,Prayagraj-Area-6,20.1286,75.5638,906
+7,India,Uttar Pradesh,Prayagraj,Block-3,Village,Prayagraj-Area-7,26.8498,76.805,3347
+8,India,Uttar Pradesh,Prayagraj,Block-4,Village,Prayagraj-Area-8,33.8448,76.7319,2319
+9,India,Uttar Pradesh,Prayagraj,Block-5,Town,Prayagraj-Area-9,10.6113,86.9499,10691
+10,India,Uttar Pradesh,Prayagraj,Block-1,Town,Prayagraj-Area-10,29.7925,84.5946,9585
+11,India,Uttar Pradesh,Prayagraj,Block-2,Village,Prayagraj-Area-11,34.2741,77.5707,9844
+12,India,Uttar Pradesh,Prayagraj,Block-3,Town,Prayagraj-Area-12,30.3939,82.3704,6725
+13,India,Uttar Pradesh,Prayagraj,Block-4,Ward,Prayagraj-Area-13,13.1918,71.3911,11634
+14,India,Uttar Pradesh,Prayagraj,Block-5,Village,Prayagraj-Area-14,28.8728,89.7044,4614
+15,India,Uttar Pradesh,Varanasi,Block-2,Village,Varanasi-Area-1,18.2634,79.0682,6777
+16,India,Uttar Pradesh,Varanasi,Block-3,Village,Varanasi-Area-2,17.9949,74.1901,5174
+17,India,Uttar Pradesh,Varanasi,Block-4,Ward,Varanasi-Area-3,33.2897,82.9607,10780
+18,India,Uttar Pradesh,Varanasi,Block-5,Ward,Varanasi-Area-4,12.6207,84.5825,3477
+19,India,Uttar Pradesh,Varanasi,Block-1,Town,Varanasi-Area-5,18.2453,89.7905,11285
+20,India,Uttar Pradesh,Varanasi,Block-2,Ward,Varanasi-Area-6,23.0376,83.6923,1716
+21,India,Uttar Pradesh,Varanasi,Block-3,Village,Varanasi-Area-7,30.1887,86.1009,7372
+22,India,Uttar Pradesh,Varanasi,Block-4,Town,Varanasi-Area-8,9.7871,88.2627,10092
+23,India,Uttar Pradesh,Varanasi,Block-5,Ward,Varanasi-Area-9,16.4963,83.1088,7282
+24,India,Uttar Pradesh,Varanasi,Block-1,Ward,Varanasi-Area-10,20.389,75.2976,4840
+25,India,Uttar Pradesh,Varanasi,Block-2,Ward,Varanasi-Area-11,23.1569,75.2548,10377
+26,India,Uttar Pradesh,Varanasi,Block-3,Town,Varanasi-Area-12,32.2412,77.988,4393
+27,India,Uttar Pradesh,Varanasi,Block-4,Village,Varanasi-Area-13,21.7572,71.8182,1571
+28,India,Uttar Pradesh,Varanasi,Block-5,Village,Varanasi-Area-14,12.1267,73.1996,11949
+29,India,Uttar Pradesh,Lucknow,Block-2,Town,Lucknow-Area-1,24.103,77.6953,10563
+30,India,Uttar Pradesh,Lucknow,Block-3,Town,Lucknow-Area-2,22.2861,89.4216,988
+31,India,Uttar Pradesh,Lucknow,Block-4,Ward,Lucknow-Area-3,27.4595,83.6342,9597
+32,India,Uttar Pradesh,Lucknow,Block-5,Town,Lucknow-Area-4,28.7522,76.8035,5608
+33,India,Uttar Pradesh,Lucknow,Block-1,Town,Lucknow-Area-5,12.2703,70.0649,5115
+34,India,Uttar Pradesh,Lucknow,Block-2,Ward,Lucknow-Area-6,28.573,80.1536,2543
+35,India,Uttar Pradesh,Lucknow,Block-3,Ward,Lucknow-Area-7,16.058,82.779,10777
+36,India,Uttar Pradesh,Lucknow,Block-4,Village,Lucknow-Area-8,12.1267,85.2502,9637
+37,India,Uttar Pradesh,Lucknow,Block-5,Ward,Lucknow-Area-9,32.7993,81.9789,8805
+38,India,Uttar Pradesh,Lucknow,Block-1,Village,Lucknow-Area-10,11.0204,77.2596,5838
+39,India,Uttar Pradesh,Lucknow,Block-2,Village,Lucknow-Area-11,9.564,87.5602,2090
+40,India,Uttar Pradesh,Lucknow,Block-3,Village,Lucknow-Area-12,27.7615,86.3205,9527
+41,India,Uttar Pradesh,Lucknow,Block-4,Village,Lucknow-Area-13,11.4666,79.5056,9807
+42,India,Uttar Pradesh,Lucknow,Block-5,Village,Lucknow-Area-14,15.1565,87.4487,7732
+43,India,Bihar,Patna,Block-2,Village,Patna-Area-1,33.0807,85.1053,4095
+44,India,Bihar,Patna,Block-3,Ward,Patna-Area-2,16.4163,89.903,11447
+45,India,Bihar,Patna,Block-4,Town,Patna-Area-3,19.8287,80.3515,2782
+46,India,Bihar,Patna,Block-5,Village,Patna-Area-4,14.0668,76.7617,10438
+47,India,Bihar,Patna,Block-1,Ward,Patna-Area-5,14.2131,74.4043,1963
+48,India,Bihar,Patna,Block-2,Ward,Patna-Area-6,25.0398,74.5788,1314
+49,India,Bihar,Patna,Block-3,Town,Patna-Area-7,9.9131,74.7601,11760
+50,India,Bihar,Patna,Block-4,Town,Patna-Area-8,13.7844,72.6462,10155
+51,India,Bihar,Patna,Block-5,Ward,Patna-Area-9,20.7621,85.6924,7469
+52,India,Bihar,Patna,Block-1,Village,Patna-Area-10,10.5468,83.1797,6604
+53,India,Bihar,Patna,Block-2,Town,Patna-Area-11,19.0998,87.2767,1687
+54,India,Bihar,Patna,Block-3,Ward,Patna-Area-12,25.6433,82.9236,1793
+55,India,Bihar,Patna,Block-4,Town,Patna-Area-13,27.6618,86.0119,2590
+56,India,Bihar,Patna,Block-5,Village,Patna-Area-14,13.1729,80.7257,3096
+57,India,Bihar,Gaya,Block-2,Town,Gaya-Area-1,12.9542,79.2526,2035
+58,India,Bihar,Gaya,Block-3,Town,Gaya-Area-2,29.8166,87.1193,2404
+59,India,Bihar,Gaya,Block-4,Village,Gaya-Area-3,25.6079,80.8118,1041
+60,India,Bihar,Gaya,Block-5,Village,Gaya-Area-4,33.0119,86.9739,3524
+61,India,Bihar,Gaya,Block-1,Town,Gaya-Area-5,21.1123,74.2749,7370
+62,India,Bihar,Gaya,Block-2,Village,Gaya-Area-6,12.4452,70.0431,7196
+63,India,Bihar,Gaya,Block-3,Town,Gaya-Area-7,33.016,85.7026,5473
+64,India,Bihar,Gaya,Block-4,Town,Gaya-Area-8,26.808,84.6101,9905
+65,India,Bihar,Gaya,Block-5,Ward,Gaya-Area-9,27.397,73.0959,5661
+66,India,Bihar,Gaya,Block-1,Village,Gaya-Area-10,34.1552,81.5836,9683
+67,India,Bihar,Gaya,Block-2,Village,Gaya-Area-11,28.1953,71.1433,10371
+68,India,Bihar,Gaya,Block-3,Town,Gaya-Area-12,21.577,87.0544,3379
+69,India,Bihar,Gaya,Block-4,Village,Gaya-Area-13,33.941,71.6022,3844
+70,India,Bihar,Gaya,Block-5,Village,Gaya-Area-14,24.0659,83.5043,4653
+71,India,Bihar,Nalanda,Block-2,Town,Nalanda-Area-1,11.2369,87.8057,4833
+72,India,Bihar,Nalanda,Block-3,Ward,Nalanda-Area-2,24.052,82.3876,7668
+73,India,Bihar,Nalanda,Block-4,Ward,Nalanda-Area-3,23.7592,80.4557,5072
+74,India,Bihar,Nalanda,Block-5,Village,Nalanda-Area-4,26.0826,76.2837,5151
+75,India,Bihar,Nalanda,Block-1,Town,Nalanda-Area-5,11.5337,82.91,8291
+76,India,Bihar,Nalanda,Block-2,Town,Nalanda-Area-6,33.0835,88.7147,952
+77,India,Bihar,Nalanda,Block-3,Town,Nalanda-Area-7,24.7713,81.2599,2438
+78,India,Bihar,Nalanda,Block-4,Village,Nalanda-Area-8,22.5161,80.1177,2970
+79,India,Bihar,Nalanda,Block-5,Town,Nalanda-Area-9,31.7833,87.5854,6854
+80,India,Bihar,Nalanda,Block-1,Town,Nalanda-Area-10,12.2592,86.6749,5756
+81,India,Bihar,Nalanda,Block-2,Ward,Nalanda-Area-11,34.564,86.142,9466
+82,India,Bihar,Nalanda,Block-3,Village,Nalanda-Area-12,26.0323,81.092,11668
+83,India,Bihar,Nalanda,Block-4,Village,Nalanda-Area-13,33.3511,72.6858,2691
+84,India,Bihar,Nalanda,Block-5,Village,Nalanda-Area-14,28.0453,73.109,5416
+85,India,West Bengal,Kolkata,Block-2,Ward,Kolkata-Area-1,13.687,76.8576,11191
+86,India,West Bengal,Kolkata,Block-3,Town,Kolkata-Area-2,21.646,75.0224,1632
+87,India,West Bengal,Kolkata,Block-4,Village,Kolkata-Area-3,25.1257,86.587,1522
+88,India,West Bengal,Kolkata,Block-5,Village,Kolkata-Area-4,17.006,72.6164,5091
+89,India,West Bengal,Kolkata,Block-1,Village,Kolkata-Area-5,28.0132,81.0336,7807
+90,India,West Bengal,Kolkata,Block-2,Ward,Kolkata-Area-6,8.2611,71.5049,3242
+91,India,West Bengal,Kolkata,Block-3,Ward,Kolkata-Area-7,8.9728,77.3843,9852
+92,India,West Bengal,Kolkata,Block-4,Village,Kolkata-Area-8,19.6042,70.8366,6774
+93,India,West Bengal,Kolkata,Block-5,Village,Kolkata-Area-9,32.271,74.2015,4888
+94,India,West Bengal,Kolkata,Block-1,Ward,Kolkata-Area-10,10.7754,85.6023,7458
+95,India,West Bengal,Kolkata,Block-2,Ward,Kolkata-Area-11,28.2359,88.5153,4678
+96,India,West Bengal,Kolkata,Block-3,Village,Kolkata-Area-12,34.3576,86.2154,7555
+97,India,West Bengal,Kolkata,Block-4,Village,Kolkata-Area-13,12.8427,88.4897,7545
+98,India,West Bengal,Kolkata,Block-5,Ward,Kolkata-Area-14,31.3297,86.215,5171
+99,India,West Bengal,Medinipur,Block-2,Village,Medinipur-Area-1,29.2591,72.1619,1434
+100,India,West Bengal,Medinipur,Block-3,Town,Medinipur-Area-2,14.0057,86.3317,8341
+101,India,West Bengal,Medinipur,Block-4,Town,Medinipur-Area-3,16.2402,85.9069,4528
+102,India,West Bengal,Medinipur,Block-5,Village,Medinipur-Area-4,8.6389,73.8626,6178
+103,India,West Bengal,Medinipur,Block-1,Town,Medinipur-Area-5,31.3375,89.3378,5373
+104,India,West Bengal,Medinipur,Block-2,Town,Medinipur-Area-6,25.32,77.9936,9585
+105,India,West Bengal,Medinipur,Block-3,Town,Medinipur-Area-7,33.3594,72.3068,5079
+106,India,West Bengal,Medinipur,Block-4,Village,Medinipur-Area-8,23.6759,89.671,1426
+107,India,West Bengal,Medinipur,Block-5,Village,Medinipur-Area-9,24.1074,76.9137,5939
+108,India,West Bengal,Medinipur,Block-1,Town,Medinipur-Area-10,24.3676,80.2285,7111
+109,India,West Bengal,Medinipur,Block-2,Ward,Medinipur-Area-11,13.1321,70.8877,7944
+110,India,West Bengal,Medinipur,Block-3,Village,Medinipur-Area-12,22.0378,86.1302,11787
+111,India,West Bengal,Medinipur,Block-4,Village,Medinipur-Area-13,17.834,71.3995,11682
+112,India,West Bengal,Medinipur,Block-5,Town,Medinipur-Area-14,24.8252,83.2677,2841
+113,India,West Bengal,Howrah,Block-2,Ward,Howrah-Area-1,32.3013,80.1425,11726
+114,India,West Bengal,Howrah,Block-3,Town,Howrah-Area-2,16.8069,83.9442,9883
+115,India,West Bengal,Howrah,Block-4,Village,Howrah-Area-3,13.1797,83.2986,7011
+116,India,West Bengal,Howrah,Block-5,Ward,Howrah-Area-4,28.1996,73.4805,10124
+117,India,West Bengal,Howrah,Block-1,Town,Howrah-Area-5,18.964,86.6745,5778
+118,India,West Bengal,Howrah,Block-2,Town,Howrah-Area-6,13.6749,85.7152,10739
+119,India,West Bengal,Howrah,Block-3,Ward,Howrah-Area-7,16.7007,78.8357,11869
+120,India,West Bengal,Howrah,Block-4,Village,Howrah-Area-8,21.8017,85.8747,3580
+121,India,West Bengal,Howrah,Block-5,Ward,Howrah-Area-9,10.2895,80.309,11170
+122,India,West Bengal,Howrah,Block-1,Ward,Howrah-Area-10,17.0501,86.3685,4648
+123,India,West Bengal,Howrah,Block-2,Ward,Howrah-Area-11,16.3813,86.1313,3214
+124,India,West Bengal,Howrah,Block-3,Village,Howrah-Area-12,9.2478,89.6787,10815
+125,India,West Bengal,Howrah,Block-4,Village,Howrah-Area-13,20.2962,87.7227,10231
+126,India,West Bengal,Howrah,Block-5,Village,Howrah-Area-14,27.3953,77.6796,7347
+127,India,Maharashtra,Pune,Block-2,Village,Pune-Area-1,11.9844,83.7524,2546
+128,India,Maharashtra,Pune,Block-3,Town,Pune-Area-2,13.9087,86.0822,9286
+129,India,Maharashtra,Pune,Block-4,Town,Pune-Area-3,9.3559,74.984,2788
+130,India,Maharashtra,Pune,Block-5,Town,Pune-Area-4,11.6002,79.2929,9502
+131,India,Maharashtra,Pune,Block-1,Ward,Pune-Area-5,24.0772,89.0008,8051
+132,India,Maharashtra,Pune,Block-2,Ward,Pune-Area-6,30.0052,87.8404,7791
+133,India,Maharashtra,Pune,Block-3,Ward,Pune-Area-7,20.0397,73.1832,8577
+134,India,Maharashtra,Pune,Block-4,Town,Pune-Area-8,14.9982,74.9448,11247
+135,India,Maharashtra,Pune,Block-5,Town,Pune-Area-9,28.677,80.426,11068
+136,India,Maharashtra,Pune,Block-1,Village,Pune-Area-10,15.4141,71.5497,5481
+137,India,Maharashtra,Pune,Block-2,Village,Pune-Area-11,15.3363,76.3942,9649
+138,India,Maharashtra,Pune,Block-3,Village,Pune-Area-12,11.7361,74.6252,3303
+139,India,Maharashtra,Pune,Block-4,Ward,Pune-Area-13,13.7767,78.2974,6221
+140,India,Maharashtra,Pune,Block-5,Ward,Pune-Area-14,20.58,71.2453,7683
+141,India,Maharashtra,Nagpur,Block-2,Town,Nagpur-Area-1,32.4306,81.6816,1120
+142,India,Maharashtra,Nagpur,Block-3,Ward,Nagpur-Area-2,18.2703,70.1179,6563
+143,India,Maharashtra,Nagpur,Block-4,Town,Nagpur-Area-3,28.3438,87.069,7665
+144,India,Maharashtra,Nagpur,Block-5,Ward,Nagpur-Area-4,28.1829,80.9226,10683
+145,India,Maharashtra,Nagpur,Block-1,Village,Nagpur-Area-5,21.1822,75.4587,8756
+146,India,Maharashtra,Nagpur,Block-2,Village,Nagpur-Area-6,18.4991,83.3775,7424
+147,India,Maharashtra,Nagpur,Block-3,Ward,Nagpur-Area-7,12.4562,79.3478,2891
+148,India,Maharashtra,Nagpur,Block-4,Ward,Nagpur-Area-8,22.4213,88.1386,10497
+149,India,Maharashtra,Nagpur,Block-5,Ward,Nagpur-Area-9,25.901,71.6789,7822
+150,India,Maharashtra,Nagpur,Block-1,Village,Nagpur-Area-10,31.405,73.6346,5062
+151,India,Maharashtra,Nagpur,Block-2,Town,Nagpur-Area-11,16.8385,79.094,6329
+152,India,Maharashtra,Nagpur,Block-3,Town,Nagpur-Area-12,15.5129,89.0241,7706
+153,India,Maharashtra,Nagpur,Block-4,Town,Nagpur-Area-13,30.5426,79.4061,9637
+154,India,Maharashtra,Nagpur,Block-5,Village,Nagpur-Area-14,34.9975,76.9992,11451
+155,India,Maharashtra,Nashik,Block-2,Village,Nashik-Area-1,29.0933,83.0351,1308
+156,India,Maharashtra,Nashik,Block-3,Village,Nashik-Area-2,13.3827,70.4076,3296
+157,India,Maharashtra,Nashik,Block-4,Village,Nashik-Area-3,11.408,83.3892,10040
+158,India,Maharashtra,Nashik,Block-5,Village,Nashik-Area-4,20.5559,75.1249,6843
+159,India,Maharashtra,Nashik,Block-1,Village,Nashik-Area-5,24.3591,89.2747,2676
+160,India,Maharashtra,Nashik,Block-2,Village,Nashik-Area-6,34.0475,72.162,1220
+161,India,Maharashtra,Nashik,Block-3,Town,Nashik-Area-7,23.5465,88.1605,6949
+162,India,Maharashtra,Nashik,Block-4,Town,Nashik-Area-8,33.4197,73.9666,10500
+163,India,Maharashtra,Nashik,Block-5,Ward,Nashik-Area-9,30.4254,74.857,5741
+164,India,Maharashtra,Nashik,Block-1,Ward,Nashik-Area-10,24.2111,72.4211,10072
+165,India,Maharashtra,Nashik,Block-2,Village,Nashik-Area-11,17.3745,78.5676,6871
+166,India,Maharashtra,Nashik,Block-3,Village,Nashik-Area-12,21.6609,76.8246,7682
+167,India,Maharashtra,Nashik,Block-4,Town,Nashik-Area-13,10.8495,89.2158,11213
+168,India,Maharashtra,Nashik,Block-5,Town,Nashik-Area-14,27.0973,78.7097,9348
+169,India,Telangana,Hyderabad,Block-2,Ward,Hyderabad-Area-1,15.2922,86.164,9617
+170,India,Telangana,Hyderabad,Block-3,Town,Hyderabad-Area-2,20.5516,86.5147,10507
+171,India,Telangana,Hyderabad,Block-4,Town,Hyderabad-Area-3,16.7022,74.9099,2219
+172,India,Telangana,Hyderabad,Block-5,Town,Hyderabad-Area-4,31.804,74.8773,8413
+173,India,Telangana,Hyderabad,Block-1,Ward,Hyderabad-Area-5,24.479,77.5798,1270
+174,India,Telangana,Hyderabad,Block-2,Town,Hyderabad-Area-6,30.9757,73.6368,4275
+175,India,Telangana,Hyderabad,Block-3,Town,Hyderabad-Area-7,29.5415,76.8068,10567
+176,India,Telangana,Hyderabad,Block-4,Ward,Hyderabad-Area-8,31.7629,81.1158,9264
+177,India,Telangana,Hyderabad,Block-5,Village,Hyderabad-Area-9,10.3115,84.4015,8804
+178,India,Telangana,Hyderabad,Block-1,Ward,Hyderabad-Area-10,28.4704,83.8122,11382
+179,India,Telangana,Hyderabad,Block-2,Ward,Hyderabad-Area-11,21.2522,85.8587,2324
+180,India,Telangana,Hyderabad,Block-3,Town,Hyderabad-Area-12,13.9831,83.8357,5816
+181,India,Telangana,Hyderabad,Block-4,Ward,Hyderabad-Area-13,23.702,79.4652,9498
+182,India,Telangana,Hyderabad,Block-5,Town,Hyderabad-Area-14,19.4886,84.9187,6219
+183,India,Telangana,Warangal,Block-2,Town,Warangal-Area-1,26.9771,75.4183,4918
+184,India,Telangana,Warangal,Block-3,Village,Warangal-Area-2,11.2577,73.8517,2758
+185,India,Telangana,Warangal,Block-4,Ward,Warangal-Area-3,22.4683,85.2438,3833
+186,India,Telangana,Warangal,Block-5,Village,Warangal-Area-4,13.8424,79.684,10459
+187,India,Telangana,Warangal,Block-1,Ward,Warangal-Area-5,24.1133,89.6102,3980
+188,India,Telangana,Warangal,Block-2,Town,Warangal-Area-6,14.142,73.5888,1031
+189,India,Telangana,Warangal,Block-3,Ward,Warangal-Area-7,22.4216,75.4862,1693
+190,India,Telangana,Warangal,Block-4,Ward,Warangal-Area-8,15.8877,88.8818,11250
+191,India,Telangana,Warangal,Block-5,Town,Warangal-Area-9,10.7699,70.2453,5458
+192,India,Telangana,Warangal,Block-1,Town,Warangal-Area-10,20.9253,76.8141,1641
+193,India,Telangana,Warangal,Block-2,Town,Warangal-Area-11,33.4087,79.5546,1870
+194,India,Telangana,Warangal,Block-3,Town,Warangal-Area-12,21.2772,81.5404,1678
+195,India,Telangana,Warangal,Block-4,Village,Warangal-Area-13,12.0283,81.2568,5778
+196,India,Telangana,Warangal,Block-5,Village,Warangal-Area-14,34.8358,72.369,7618
+197,India,Telangana,Nizamabad,Block-2,Ward,Nizamabad-Area-1,24.0954,82.3684,9361
+198,India,Telangana,Nizamabad,Block-3,Town,Nizamabad-Area-2,20.1639,78.8544,10442
+199,India,Telangana,Nizamabad,Block-4,Town,Nizamabad-Area-3,16.2453,82.4205,10788
+200,India,Telangana,Nizamabad,Block-5,Ward,Nizamabad-Area-4,10.6793,85.2547,11048
+201,India,Telangana,Nizamabad,Block-1,Village,Nizamabad-Area-5,15.1454,71.6237,4729
+202,India,Telangana,Nizamabad,Block-2,Village,Nizamabad-Area-6,22.9038,73.1307,7493
+203,India,Telangana,Nizamabad,Block-3,Town,Nizamabad-Area-7,26.613,79.3982,1334
+204,India,Telangana,Nizamabad,Block-4,Village,Nizamabad-Area-8,15.7788,75.6544,8238
+205,India,Telangana,Nizamabad,Block-5,Village,Nizamabad-Area-9,26.5594,88.4782,11040
+206,India,Telangana,Nizamabad,Block-1,Ward,Nizamabad-Area-10,25.8519,88.6734,7765
+207,India,Telangana,Nizamabad,Block-2,Village,Nizamabad-Area-11,22.7032,82.9527,5152
+208,India,Telangana,Nizamabad,Block-3,Village,Nizamabad-Area-12,9.9281,73.3185,5839
+209,India,Telangana,Nizamabad,Block-4,Ward,Nizamabad-Area-13,28.2219,81.3841,5528
+210,India,Telangana,Nizamabad,Block-5,Town,Nizamabad-Area-14,11.3575,83.7736,7394

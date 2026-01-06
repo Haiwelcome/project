@@ -1,0 +1,4 @@
+scheme_name,category,min_age,max_age,owner
+Child Vaccination,Vaccine,0,5,MoHFW
+TB Screening,Screening,18,80,MoHFW
+Diabetes Screening,Screening,30,80,MoHFW
